@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ImportExcelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="FilterTable">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ngay" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gio" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Chinh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Doi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Noidung" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="A1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="A2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="B1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="B2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Ghichu" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Nu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Masokenh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="ImportExcelEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="FilterTables" EntityType="Self.FilterTable" />
+  </EntityContainer>
+</Schema>

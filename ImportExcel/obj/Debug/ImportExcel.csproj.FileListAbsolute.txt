@@ -1,0 +1,45 @@
+D:\Work\Private\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe
+D:\Work\Private\ImportExcel\ImportExcel\bin\Debug\ImportExcel.pdb
+D:\Work\Private\ImportExcel\ImportExcel\bin\Debug\Excel.dll
+D:\Work\Private\ImportExcel\ImportExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Work\Private\ImportExcel\ImportExcel\bin\Debug\Excel.pdb
+D:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csprojResolveAssemblyReference.cache
+D:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Form1.resources
+D:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Properties.Resources.resources
+D:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csproj.GenerateResource.Cache
+D:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.exe
+D:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.pdb
+D:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.ChinhForm.resources
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe.config
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\ImportExcel.pdb
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\EntityFramework.dll
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\Excel.dll
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\EntityFramework.xml
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Private\ImportExcel\ImportExcel\bin\Debug\Excel.pdb
+E:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.ChinhForm.resources
+E:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Form1.resources
+E:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Properties.Resources.resources
+E:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csproj.GenerateResource.Cache
+E:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.exe
+E:\Work\Private\ImportExcel\ImportExcel\obj\Debug\ImportExcel.pdb
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe.config
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\obj\Debug\ImportExcel.exe
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\obj\Debug\ImportExcel.pdb
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\ImportExcel.pdb
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\EntityFramework.dll
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\Excel.dll
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\EntityFramework.xml
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\bin\Debug\Excel.pdb
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csprojResolveAssemblyReference.cache
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\obj\Debug\ImportExcel.ChinhForm.resources
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Form1.resources
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Properties.Resources.resources
+E:\Work\Private\Import Excel\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csproj.GenerateResource.Cache
